@@ -1,0 +1,44 @@
+# Sistema Operacional
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/settings.json
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+
+venv/
+.venv/
+env/
+
+# Logs
+
+*.log
+
+# Arquivos temporários
+
+*.tmp
+*.temp
+
+# Variáveis de ambiente
+
+.env
+.env.local
+
+# Node.js (caso seja usado futuramente)
+
+node_modules/
+
+# Arquivos de build
+
+dist/
+build/
