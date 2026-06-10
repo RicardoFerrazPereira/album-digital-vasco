@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "nome": "Philippe Coutinho",
+        "posicao": "Meia",
+        "camisa": 11,
+        "gols": 8,
+        "assistencias": 6,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/coutinho.jpg",
+        "descricao": "Revelado pelo Vasco, retornou ao clube para liderar a equipe."
+    },
+    {
+        "id": 2,
+        "nome": "Pablo Vegetti",
+        "posicao": "Atacante",
+        "camisa": 99,
+        "gols": 8,
+        "assistencias": 6,
+        "nacionalidade": "Argentina",
+        "raridade": "comum",
+        "imagem": "img/jogadores/vegetti.jpg",
+        "descricao": "Centroavante argentino e um dos principais artilheiros do elenco."
+    },
+    {
+        "id": 3,
+        "nome": "Ryan",
+        "posicao": "Atacante",
+        "camisa": 77,
+        "gols": 20,
+        "assistencias": 6,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/ryan.png",
+        "descricao": "Centroavante argentino e um dos principais artilheiros do elenco."
+    },
+    {
+        "id": 4,
+        "nome": "Thiago Mendes",
+        "posicao": "Volante",
+        "camisa": 23,
+        "gols": 5,
+        "assistencias": 6,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/thiagomendes.jpg",
+        "descricao": "Centroavante argentino e um dos principais artilheiros do elenco."
+    },
+    {
+        "id": 4,
+        "nome": "Thiago Mendes",
+        "posicao": "Volante",
+        "camisa": 23,
+        "gols": 5,
+        "assistencias": 6,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/thiagomendes.jpg",
+        "descricao": "Centroavante argentino e um dos principais artilheiros do elenco."
+    },
+    {
+        "id": 4,
+        "nome": "Thiago Mendes",
+        "posicao": "Volante",
+        "camisa": 23,
+        "gols": 5,
+        "assistencias": 6,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/thiagomendes.jpg",
+        "descricao": "Centroavante argentino e um dos principais artilheiros do elenco."
+    },
+    {
+        "id": 4,
+        "nome": "Léo Jardim",
+        "posicao": "Goleiro",
+        "camisa": 1,
+        "nacionalidade": "Brasil",
+        "raridade": "comum",
+        "imagem": "img/jogadores/leojardim.jpg",
+        "descricao": "Goleiro titular e destaque da equipe."
+    }
+]
